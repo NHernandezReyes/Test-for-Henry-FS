@@ -1,2 +1,3 @@
-# Test-for-Henry-FS
-Este es un repositorio para el M0 de la carrera FS de Henry
+Prueba de como crear un repositorio en Github y como clonarlo a mi pc 
+
+
